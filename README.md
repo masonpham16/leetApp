@@ -11,4 +11,4 @@ Then type the following:
 git clone https://github.com/masonpham16/leetApp.git
 cd leetApp
 javac *.java
-java mainWindow
+java MainWindow
